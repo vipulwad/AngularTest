@@ -1,0 +1,142 @@
+{
+  "questions": [
+    {
+      "questionid": 1,
+      "question": "How many days in a week?",
+      "answers": [
+        {
+          "answerid": 1,
+          "answer": "5"
+        },
+        {
+          "answerid": 2,
+          "answer": "5"
+        },
+        {
+          "answerid": 3,
+          "answer": "7"
+        },
+        {
+          "answerid": 4,
+          "answer": "8"
+        }
+      ],
+      "correctanswer": 3
+    },
+    {
+      "questionid": 2,
+      "question": "Capital of India?",
+      "answers": [
+        {
+          "answerid": 1,
+          "answer": "New Delhi"
+        },
+        {
+          "answerid": 2,
+          "answer": "Bangalore"
+        },
+        {
+          "answerid": 3,
+          "answer": "Mumbai"
+        },
+        {
+          "answerid": 4,
+          "answer": "Calcutta"
+        }
+      ],
+      "correctanswer": 1
+    },
+    {
+      "questionid": 3,
+      "question": "What is the National Animal?",
+      "answers": [
+        {
+          "answerid": 1,
+          "answer": "Cow"
+        },
+        {
+          "answerid": 2,
+          "answer": "Tiger"
+        },
+        {
+          "answerid": 3,
+          "answer": "Elephant"
+        },
+        {
+          "answerid": 4,
+          "answer": "Dog"
+        }
+      ],
+      "correctanswer": 2
+    },
+    {
+      "questionid": 4,
+      "question": "Which country has highest population?",
+      "answers": [
+        {
+          "answerid": 1,
+          "answer": "5"
+        },
+        {
+          "answerid": 2,
+          "answer": "5"
+        },
+        {
+          "answerid": 3,
+          "answer": "7"
+        },
+        {
+          "answerid": 4,
+          "answer": "8"
+        }
+      ],
+      "correctanswer": 3
+    },
+    {
+      "questionid": 5,
+      "question": "Which language is used in browsers?",
+      "answers": [
+        {
+          "answerid": 1,
+          "answer": "C++"
+        },
+        {
+          "answerid": 2,
+          "answer": "Python"
+        },
+        {
+          "answerid": 3,
+          "answer": "Java Script"
+        },
+        {
+          "answerid": 4,
+          "answer": "Java"
+        }
+      ],
+      "correctanswer": 3
+    },
+    {
+      "questionid": 6,
+      "question": "How many Months in a year?",
+      "answers": [
+        {
+          "answerid": 1,
+          "answer": "11"
+        },
+        {
+          "answerid": 2,
+          "answer": "12"
+        },
+        {
+          "answerid": 3,
+          "answer": "13"
+        },
+        {
+          "answerid": 4,
+          "answer": "14"
+        }
+      ],
+      "correctanswer": 2
+    }
+  ]
+}
